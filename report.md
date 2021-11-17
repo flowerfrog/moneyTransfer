@@ -8,13 +8,12 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* https://docs.google.com/spreadsheets/d/1_wP0S2Isjq7bD_wiJcFe2L2krBVLt8Zhf8LM4RBpQAc/edit?usp=sharing
+* [при пополнении счёта VIP-клиента на балансе отображается неверная сумма](https://docs.google.com/spreadsheets/d/1_wP0S2Isjq7bD_wiJcFe2L2krBVLt8Zhf8LM4RBpQAc/edit?usp=sharing)
 
 # Описание процесса тестирования:
 В процессе тестирования использовались следующие артефакты:
 
 * Баг-репорт
-* Отчёт о тестировании
 
 В качестве тестовых данных использовались [данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md):
 
